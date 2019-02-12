@@ -1,0 +1,13 @@
+Link to connect to Microsoft Database : DBVisualizer (https://www.dbvis.com/download/ )
+
+jdbc:jtds:sqlserver://server:port;DatabaseName=dbname;Instance=Instancename
+
+Database Server: xxxxx
+Driver: SQL Server (jTDS)
+Instance: xxxx
+Database UserIId: xxxx
+Password: xxxxxxx
+
+Authentication mode: Windows
+Domain: xxxxx
+
